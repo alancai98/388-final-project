@@ -1,0 +1,8 @@
+praw
+psaw
+tldextract
+bs4
+numpy
+pandas
+matplotlib
+datetime
